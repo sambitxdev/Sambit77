@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -106,7 +106,6 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://v4.brittanychiang.com/">
-          <div>Inspired by Brittany Chiang</div>
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
