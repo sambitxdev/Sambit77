@@ -8,6 +8,7 @@ module.exports = {
     siteUrl: 'https://sambitkumarsahoo.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Sambitxdev',
+    pathPrefix: '/sambit77',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
