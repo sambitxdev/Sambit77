@@ -5,7 +5,7 @@
   sambit77.vercel.app
 </h1>
 <p align="center">
-  The Portfolio <a href="https://sambit77.vercel.app" target="_blank">sambitkumarsahoo</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://vercel.com" target="_blank">Vercel</a>
+  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://vercel.com" target="_blank">Vercel</a>
 </p>
 
 ![demo](https://raw.githubusercontent.com/sambitxdev/Sambit77/master/src/images/demo.png?raw=true)
